@@ -1,0 +1,1 @@
+Simple exercise. Find element of array that is the closest to zero
